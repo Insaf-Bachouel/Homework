@@ -1,4 +1,4 @@
-package partition;
+package com.partition;
 
 import java.util.ArrayList;
 import java.util.Arrays;

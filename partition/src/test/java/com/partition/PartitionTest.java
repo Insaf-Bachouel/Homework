@@ -1,10 +1,12 @@
-package partition;
+package com.partition;
 
 import static org.junit.Assert.assertEquals;
 
 import java.util.ArrayList;
 import java.util.List;
 import org.junit.Test;
+
+import com.partition.Partition;
 
 
 public class PartitionTest {
